@@ -13,4 +13,4 @@
 : 수막 재배시설 환경과 라돈 농도의 상관관계와 예측모델
 
 ## :fire:skills:fire:
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=React&logoColor=white"/> 
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> 
