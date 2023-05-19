@@ -14,3 +14,8 @@
 
 ## :fire:skills:fire:
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> 
+
+## 🌱0.0.2 추가 내용🌱
+
+ 아림 사이언스에서 제공하는 기기에서 측정되는 습도는 상대습도인데 이 상대습도의 식에서 이슬점에 따라 공기 중 물의 양이 달라진다. 그래서 그런 부분에서 정확도를 증가 시킬 수 있지 않을까
+해서 상대습도 => 절대습도 알고리즘을 추가했다.
